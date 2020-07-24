@@ -1,0 +1,116 @@
+- title: Overview
+  pages:
+    - path: /getting-started
+- title: Design
+  pages:
+    - path: /demo
+- title: Style
+  pages:
+    - title: Colors
+      path: /style/colors
+    - title: Typography
+      path: /style/typography
+    - title: Carousel
+      path: /style/carousel
+    - title: Icons
+      pages:
+        - title: Guidelines
+          path: /style/icons/guidelines
+        - title: Library
+          path: /style/icons/library
+    - title: Depth
+      path: /style/depth
+    - title: Writing
+      path: /style/writing
+    - title: Design Tokens
+      path: /style/design-tokens
+    - title: Component Assets
+      path: /style/component-assets
+- title: Patterns & Behaviors
+  pages:
+    - title: Background Jobs
+      path: /patterns/background-jobs
+    - title: Browser Buttons
+      path: /patterns/browser-buttons
+    - title: Carousel
+      path: /patterns/carousel
+    - title: Data Formats
+      path: /patterns/data-formats
+    - title: Filter Pattern
+      path: /patterns/navigation/filter-pattern
+    - title: forms
+      path: /patterns/forms
+    - title: Help Panel
+      path: /patterns/help-panel
+    - title: Master Detail
+      path: /patterns/master-detail
+    - title: Messages
+      path: /patterns/messages
+    - title: Motion
+      path: /patterns/motion
+    - title: Notificiation Center
+      path: /patterns/notification-center
+    - title: On-boarding
+      path: /patterns/on-boarding
+    - title: Repeater Form
+      path: /patterns/repeater-form
+    - title: Wizard
+      path: /patterns/wizard
+- title: Layout
+  pages:
+    - title: Grid
+      path: /layout/grid
+    - title: Spacing
+      path: /layout/spacing
+    - title: Collection
+      path: /layout/collection
+    - title: Structure
+      path: /layout/structure
+- title: Components
+  pages:
+    - title: Accordion
+      path: /components/Accordion
+    - title: AnchorLinks
+      path: /components/AnchorLinks
+    - title: ArtDirection
+      path: /components/ArtDirection
+    - title: ArticleCard
+      path: /components/ArticleCard
+    - title: Aside
+      path: /components/Aside
+    - title: Caption
+      path: /components/Caption
+    - title: Code blocks
+      path: /components/code-blocks
+    - title: DoDontExample
+      path: /components/DoDontExample
+    - title: DoDontRow
+      path: /components/DoDontRow
+    - title: FeatureCard
+      path: /components/FeatureCard
+    - title: FeedbackDialog
+      path: /components/FeedbackDialog
+    - title: GifPlayer
+      path: /components/GifPlayer
+    - title: Grid
+      path: /components/Grid
+    - title: ImageCard
+      path: /components/ImageCard
+    - title: ImageGallery
+      path: /components/ImageGallery
+    - title: InlineNotification
+      path: /components/InlineNotification
+    - title: Markdown
+      path: /components/markdown
+    - title: MediumPosts
+      path: /components/MediumPosts
+    - title: PageDescription
+      path: /components/PageDescription
+    - title: ResourceCard
+      path: /components/ResourceCard
+    - title: Tabs
+      path: /components/Tabs
+    - title: Title
+      path: /components/Title
+    - title: Video
+      path: /components/Video
